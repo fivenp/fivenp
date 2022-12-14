@@ -14,4 +14,4 @@ I'm a principal product designer, wannabe engineer and tend to be quirky, try ou
 
 > Some people say I'm actually a pretty nice guy... So feel free to reach out – promise I'll write back :) 
 
-You can find me on [here](https://fivenp.com), and on [Twitter](https://twitter.com/fivenp) and [LinkedIn](https://linkedin.com/in/fivenp/)
+You can find me on [here](https://fivenp.com), on [Mastodon](https://uiuxdev.social/@fivenp), [Twitter](https://twitter.com/fivenp) and [LinkedIn](https://linkedin.com/in/fivenp/)
